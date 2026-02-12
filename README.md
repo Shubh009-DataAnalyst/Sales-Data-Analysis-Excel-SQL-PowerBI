@@ -54,6 +54,8 @@ In Power BI, I created an interactive dashboard and added the following measures
 
 The dashboard provides a clear overview of sales performance across different categories and cities.
 
+![Sales Dashboard](images/image.png)
+
 ---
 
 ## Key Insights
