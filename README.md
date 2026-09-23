@@ -3,7 +3,7 @@
 ## Summary
 **Business Problem:** Understand overall sales performance so the business can identify its strongest cities, product categories, and payment methods to guide marketing and operations decisions.
 
-**Approach & Hypotheses:** I expected sales to be concentrated in a few high-demand cities and categories rather than spread evenly, and that digital payment modes (like UPI) would dominate over cash-based methods. I analyzed the cleaned order-level data by city, category, product, and payment mode to test this.
+**Approach & Hypotheses:** I expected sales to be concentrated in a few high-demand cities and categories rather than spread evenly, and that digital payment modes (like UPI) would dominate over cash-based methods. I analyzed the cleaned order-level data by city, category, product, payment mode and product-wise payment mode preference to test this.
 
 **Key Findings:**
 - Total sales: ₹32M across 500 orders
@@ -56,7 +56,7 @@ Using SQL, I analyzed the cleaned data to answer business-related questions such
 - Total sales and total number of orders
 - Category-wise and city-wise sales performance
 - Average order value and quantity sold
-
+- Product-wise payment mode preference
 This helped me practice real-world SQL queries instead of just theoretical examples.
 
 ---
