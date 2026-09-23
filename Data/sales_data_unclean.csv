@@ -1,0 +1,501 @@
+﻿order_id,order_date,customer_name,product,category,quantity,price,city,payment_mode
+1001,13-01-2024,Neha_Gupta,Mobile,Electronics,4,45786,Bengaluru,COD
+1002,12-01-2024,Neha_Gupta,Mobile,Electronics,4,,Bengaluru,UPI
+1003,2024/01/04,rahulsharma,mobile,Electronics,2,57840, pune,UPI
+1004,20240119,Neha_Gupta,Mobile,Electronics,2,54109,Mumbai ,upi
+1005,20240124,rahulsharma,Laptop,Electronics,,,Mumbai ,upi
+1006,2024/01/05,rohitverma,Mobile,Electronics,1,55440, pune,cash on delivery
+1007,07-01-2024,sunilKAPOOR,mobile,Electronics,2,12797,Delhi,cash on delivery
+1008,2024/01/10,ankit_kumar, shoes,Fashion,3,21958,Mumbai ,Upi
+1009,20240104,rohitverma,Mobile,Electronics,4,, pune,credit Card
+1010,20240106,rahulsharma,Headphone ,Accessories,2,35875,Bengaluru,Credit card
+1011,15-01-2024,ankit_kumar,Mobile,Electronics,4,4014, pune,Credit card
+1012,2024/01/25,rahulsharma,mobile,Electronics,4,49504,delhi,Credit card
+1013,22-01-2024,Neha_Gupta,Headphone ,Accessories,3,47748,DELHI,upi
+1014,20240129,Neha_Gupta,Laptop,Electronics,1,15817,mumbai,COD
+1015,16-01-2024,Neha_Gupta, shoes,Fashion,2,10677,mumbai,Credit card
+1016,20240114,Neha_Gupta, shoes,Fashion,4,, pune,cash on delivery
+1017,2024/01/22,sunilKAPOOR,Laptop,Electronics,1,,mumbai,cash on delivery
+1018,29-01-2024,sunilKAPOOR, shoes,Fashion,2,41895,Bengaluru,upi
+1019,28-01-2024,rohitverma,mobile,Electronics,2,29940,Mumbai ,COD
+1020,20240109,rahulsharma,Headphone ,Accessories,,13756,delhi,Credit card
+1021,20240129,rahulsharma,Mobile,Electronics,1,40299,DELHI,credit Card
+1022,20240130,Neha_Gupta,mobile,Electronics,4,37009, pune,cash on delivery
+1023,20240113,rohitverma,Headphone ,Accessories,3,51052,Delhi,credit Card
+1024,24-01-2024,Neha_Gupta,mobile,Electronics,4,15565,mumbai,COD
+1025,20240123,PriyaSingh,Laptop,Electronics,,56865, pune,credit Card
+1026,19-01-2024,sunilKAPOOR,Laptop,Electronics,,44527,DELHI,cash on delivery
+1027,05-01-2024,rahulsharma,Headphone ,Accessories,1,54243,Mumbai ,UPI
+1028,2024/01/26,Neha_Gupta,Laptop,Electronics,1,38512,mumbai,Credit card
+1029,28-01-2024,PriyaSingh,Mobile,Electronics,1,17143, pune,upi
+1030,03-01-2024,rahulsharma, shoes,Fashion,2,26462,mumbai,COD
+1031,2024/01/03,sunilKAPOOR,Headphone ,Accessories,1,,mumbai,UPI
+1032,28-01-2024,rahulsharma, shoes,Fashion,4,3442,mumbai,credit Card
+1033,19-01-2024,Neha_Gupta, shoes,Fashion,2,17429,DELHI,Credit card
+1034,2024/01/20,rohitverma,mobile,Electronics,2,46374,Bengaluru,UPI
+1035,2024/01/22,PriyaSingh, shoes,Fashion,3,2813,Mumbai ,Credit card
+1036,20240114,ankit_kumar, shoes,Fashion,3,44063,delhi,credit Card
+1037,20240108,PriyaSingh,Mobile,Electronics,1,6969,delhi,Credit card
+1038,06-01-2024,rahulsharma,Headphone ,Accessories,1,54863,mumbai,upi
+1039,23-01-2024,ankit_kumar,mobile,Electronics,2,45229,Bengaluru,Credit card
+1040,2024/01/13,PriyaSingh,mobile,Electronics,1,15479,Delhi,credit Card
+1041,19-01-2024,Neha_Gupta,Mobile,Electronics,2,,mumbai,cash on delivery
+1042,20240118,rahulsharma, shoes,Fashion,4,19987,Mumbai ,Credit card
+1043,20240129,PriyaSingh, shoes,Fashion,2,52253,DELHI,Credit card
+1044,26-01-2024,sunilKAPOOR, shoes,Fashion,2,11930,mumbai,COD
+1045,12-01-2024,rohitverma,Mobile,Electronics,1,,Delhi,COD
+1046,20240121,rahulsharma,Mobile,Electronics,3,13263,mumbai,COD
+1047,20240118,PriyaSingh,Mobile,Electronics,1,43257,Mumbai ,COD
+1048,25-01-2024,Neha_Gupta,mobile,Electronics,4,23288,Mumbai ,Credit card
+1049,01-01-2024,sunilKAPOOR,Headphone ,Accessories,,28564,Bengaluru,Upi
+1050,2024/01/08,rahulsharma,Mobile,Electronics,4,50277,Delhi,cash on delivery
+1051,20240108,Neha_Gupta, shoes,Fashion,4,27089,Mumbai ,UPI
+1052,2024/01/25,ankit_kumar,Laptop,Electronics,3,8651,mumbai,cash on delivery
+1053,20240130,rahulsharma, shoes,Fashion,1,51814,Delhi,Credit card
+1054,20240104,PriyaSingh,Mobile,Electronics,1,56654,DELHI,UPI
+1055,20240113,rohitverma,Laptop,Electronics,2,18515,Mumbai ,UPI
+1056,20240104,PriyaSingh,Headphone ,Accessories,4,27190,DELHI,UPI
+1057,2024/01/27,sunilKAPOOR, shoes,Fashion,,33939,Bengaluru,credit Card
+1058,20240102,ankit_kumar,Laptop,Electronics,1,26427,delhi,COD
+1059,24-01-2024,Neha_Gupta, shoes,Fashion,4,51180,Mumbai ,cash on delivery
+1060,2024/01/26,sunilKAPOOR,Headphone ,Accessories,,58873, pune,COD
+1061,20240116,PriyaSingh,Headphone ,Accessories,4,36823,Bengaluru,COD
+1062,03-01-2024,PriyaSingh,Mobile,Electronics,2,26863,mumbai,upi
+1063,24-01-2024,PriyaSingh,mobile,Electronics,2,,DELHI,COD
+1064,2024/01/29,Neha_Gupta,Headphone ,Accessories,,26119,delhi,cash on delivery
+1065,26-01-2024,rahulsharma,Headphone ,Accessories,4,5499,DELHI,Credit card
+1066,20240108,PriyaSingh,Mobile,Electronics,3,21199,mumbai,Credit card
+1067,20240109,sunilKAPOOR,mobile,Electronics,2,31171,Bengaluru,upi
+1068,20240103,PriyaSingh,Mobile,Electronics,1,20520,mumbai,Upi
+1069,20240130,rahulsharma,Mobile,Electronics,4,44504,Mumbai ,Upi
+1070,20240115,ankit_kumar, shoes,Fashion,3,36814,Delhi,upi
+1071,2024/01/25,rohitverma,Laptop,Electronics,,4338,mumbai,upi
+1072,18-01-2024,rahulsharma,Headphone ,Accessories,1,5775,DELHI,Credit card
+1073,2024/01/14,ankit_kumar,mobile,Electronics,1,8159,Delhi,upi
+1074,20240121,rohitverma,mobile,Electronics,2,7724, pune,cash on delivery
+1075,20240112,ankit_kumar,mobile,Electronics,2,7288, pune,Upi
+1076,29-01-2024,ankit_kumar,mobile,Electronics,4,,DELHI,upi
+1077,20240105,sunilKAPOOR,Laptop,Electronics,2,,Bengaluru,cash on delivery
+1078,20240128,rohitverma,mobile,Electronics,2,38246,Mumbai ,Upi
+1079,2024/01/15,rahulsharma,mobile,Electronics,1,51945,delhi,cash on delivery
+1080,2024/01/19,ankit_kumar, shoes,Fashion,3,27782,delhi,upi
+1081,20240119,PriyaSingh, shoes,Fashion,4,,Mumbai ,COD
+1082,02-01-2024,PriyaSingh,Mobile,Electronics,,25812,delhi,credit Card
+1083,08-01-2024,PriyaSingh,Headphone ,Accessories,4,53983,mumbai,upi
+1084,15-01-2024,ankit_kumar,mobile,Electronics,1,8891,Bengaluru,COD
+1085,20240112,sunilKAPOOR,Headphone ,Accessories,3,,Delhi,UPI
+1086,20240107,rahulsharma, shoes,Fashion,3,14968,Bengaluru,COD
+1087,20240131,rohitverma,Laptop,Electronics,1,48340,mumbai,Upi
+1088,20240119,Neha_Gupta,mobile,Electronics,3,28756,delhi,UPI
+1089,20240107,ankit_kumar,Mobile,Electronics,4,16363,DELHI,COD
+1090,12-01-2024,ankit_kumar,Headphone ,Accessories,,50019,delhi,upi
+1091,20240114,sunilKAPOOR, shoes,Fashion,2,49723,DELHI,UPI
+1092,13-01-2024,rohitverma,mobile,Electronics,4,19785,Bengaluru,COD
+1093,04-01-2024,rohitverma,Laptop,Electronics,3,35854,delhi,Upi
+1094,2024/01/07,Neha_Gupta,Laptop,Electronics,1,34729,mumbai,UPI
+1095,2024/01/15,rohitverma,Laptop,Electronics,4,14245, pune,Upi
+1096,11-01-2024,rohitverma,mobile,Electronics,1,45788,Bengaluru,credit Card
+1097,2024/01/02,ankit_kumar, shoes,Fashion,4,33137,mumbai,Credit card
+1098,2024/01/28,ankit_kumar,mobile,Electronics,,51797,mumbai,upi
+1099,19-01-2024,ankit_kumar, shoes,Fashion,1,31164,mumbai,Upi
+1100,12-01-2024,rohitverma,mobile,Electronics,2,42537, pune,credit Card
+1101,20240104,Neha_Gupta,mobile,Electronics,4,54747, pune,credit Card
+1102,20240103,PriyaSingh,Laptop,Electronics,4,47131,DELHI,COD
+1103,2024/01/16,rahulsharma,mobile,Electronics,4,39094,delhi,COD
+1104,24-01-2024,Neha_Gupta, shoes,Fashion,4,7548,Mumbai ,upi
+1105,20240101,PriyaSingh,mobile,Electronics,3,55396,Delhi,Upi
+1106,08-01-2024,sunilKAPOOR,mobile,Electronics,2,36437, pune,UPI
+1107,20240112,Neha_Gupta,Headphone ,Accessories,2,2033,Delhi,Credit card
+1108,20240103,Neha_Gupta, shoes,Fashion,3,46566, pune,Upi
+1109,26-01-2024,rahulsharma,Mobile,Electronics,3,,mumbai,COD
+1110,29-01-2024,Neha_Gupta, shoes,Fashion,4,,mumbai,upi
+1111,20240116,rohitverma,Mobile,Electronics,1,51566,Bengaluru,cash on delivery
+1112,20240122,Neha_Gupta,Headphone ,Accessories,1,,mumbai,Credit card
+1113,15-01-2024,sunilKAPOOR,Headphone ,Accessories,,, pune,COD
+1114,20240122,ankit_kumar,Headphone ,Accessories,1,46714,Delhi,upi
+1115,2024/01/27,Neha_Gupta,Laptop,Electronics,2,25788,Bengaluru,credit Card
+1116,15-01-2024,ankit_kumar,Laptop,Electronics,2,,Mumbai ,cash on delivery
+1117,03-01-2024,sunilKAPOOR,Headphone ,Accessories,2,35892,DELHI,cash on delivery
+1118,20240131,rohitverma,Laptop,Electronics,1,3366,mumbai,Credit card
+1119,20-01-2024,Neha_Gupta,Headphone ,Accessories,1,28379,Delhi,Credit card
+1120,22-01-2024,PriyaSingh,Laptop,Electronics,1,,Mumbai ,cash on delivery
+1121,20240108,ankit_kumar,Headphone ,Accessories,3,19702,Delhi,credit Card
+1122,20240129,PriyaSingh,Mobile,Electronics,2,36309,Mumbai ,credit Card
+1123,12-01-2024,ankit_kumar, shoes,Fashion,4,39553,DELHI,credit Card
+1124,02-01-2024,Neha_Gupta, shoes,Fashion,2,32303,Bengaluru,cash on delivery
+1125,20240106,ankit_kumar,Laptop,Electronics,3,43280, pune,upi
+1126,2024/01/29,Neha_Gupta,Mobile,Electronics,3,43574,mumbai,Credit card
+1127,20240123,PriyaSingh, shoes,Fashion,4,5917, pune,Credit card
+1128,23-01-2024,sunilKAPOOR,Mobile,Electronics,4,27222,delhi,Upi
+1129,19-01-2024,rahulsharma,Headphone ,Accessories,,24104,mumbai,Credit card
+1130,20240124,sunilKAPOOR,mobile,Electronics,2,19456, pune,cash on delivery
+1131,20240128,ankit_kumar, shoes,Fashion,3,, pune,COD
+1132,17-01-2024,ankit_kumar,mobile,Electronics,3,14425,mumbai,UPI
+1133,2024/01/26,rohitverma,mobile,Electronics,2,24315, pune,UPI
+1134,20240113,rohitverma,mobile,Electronics,,7910,mumbai,Credit card
+1135,20240114,Neha_Gupta, shoes,Fashion,4,53801, pune,COD
+1136,20240113,rahulsharma, shoes,Fashion,1,44355,DELHI,Credit card
+1137,20240106,ankit_kumar,mobile,Electronics,1,24180,delhi,Upi
+1138,18-01-2024,sunilKAPOOR,mobile,Electronics,2,34873,Delhi,credit Card
+1139,2024/01/27,rahulsharma,mobile,Electronics,4,58991,Delhi,Upi
+1140,20240105,rahulsharma,Headphone ,Accessories,2,33200,DELHI,upi
+1141,20240127,Neha_Gupta,Headphone ,Accessories,2,2582, pune,Upi
+1142,30-01-2024,rahulsharma,Headphone ,Accessories,4,20213,mumbai,COD
+1143,25-01-2024,ankit_kumar, shoes,Fashion,3,9786,DELHI,Upi
+1144,20240105,sunilKAPOOR,Headphone ,Accessories,3,35458,delhi,Credit card
+1145,2024/01/09,ankit_kumar, shoes,Fashion,,14514,Mumbai ,cash on delivery
+1146,07-01-2024,rohitverma,Mobile,Electronics,2,,DELHI,Credit card
+1147,19-01-2024,rohitverma,Mobile,Electronics,1,,delhi,COD
+1148,20-01-2024,rohitverma,Laptop,Electronics,1,59600,Delhi,Upi
+1149,2024/01/15,ankit_kumar, shoes,Fashion,1,,Delhi,upi
+1150,14-01-2024,rahulsharma,Mobile,Electronics,2,42039,DELHI,credit Card
+1151,08-01-2024,rahulsharma,mobile,Electronics,4,42191,delhi,Upi
+1152,2024/01/28,Neha_Gupta,Laptop,Electronics,,,Mumbai ,upi
+1153,20240123,ankit_kumar,mobile,Electronics,2,,Mumbai ,Credit card
+1154,19-01-2024,sunilKAPOOR,Laptop,Electronics,4,59369,Delhi,upi
+1155,20240118,rohitverma, shoes,Fashion,4,5410,Bengaluru,cash on delivery
+1156,20240111,Neha_Gupta,Headphone ,Accessories,4,36740,DELHI,cash on delivery
+1157,2024/01/17,PriyaSingh,mobile,Electronics,3,54203,Bengaluru,upi
+1158,20240129,Neha_Gupta,Headphone ,Accessories,4,59869,Delhi,UPI
+1159,2024/01/15,ankit_kumar,mobile,Electronics,2,54919, pune,upi
+1160,10-01-2024,Neha_Gupta, shoes,Fashion,1,32724,DELHI,credit Card
+1161,05-01-2024,rohitverma,Headphone ,Accessories,2,54403,Bengaluru,Credit card
+1162,20240122,ankit_kumar, shoes,Fashion,,54282,Bengaluru,UPI
+1163,20240103,sunilKAPOOR,Mobile,Electronics,3,7050,Bengaluru,upi
+1164,27-01-2024,sunilKAPOOR,Mobile,Electronics,2,2642,Mumbai ,Credit card
+1165,14-01-2024,rohitverma,mobile,Electronics,4,,Bengaluru,COD
+1166,20-01-2024,Neha_Gupta,mobile,Electronics,1,16325,mumbai,credit Card
+1167,19-01-2024,rahulsharma,Laptop,Electronics,4,12640, pune,upi
+1168,20240101,Neha_Gupta,Laptop,Electronics,3,,Delhi,cash on delivery
+1169,03-01-2024,sunilKAPOOR,mobile,Electronics,3,48548, pune,Credit card
+1170,20240109,Neha_Gupta,mobile,Electronics,1,46702,Mumbai ,UPI
+1171,2024/01/18,rohitverma, shoes,Fashion,3,19616,mumbai,UPI
+1172,2024/01/25,rahulsharma,mobile,Electronics,3,9009,Mumbai ,upi
+1173,2024/01/23,Neha_Gupta,Mobile,Electronics,3,,Bengaluru,upi
+1174,20240114,rahulsharma,Mobile,Electronics,1,12529,mumbai,credit Card
+1175,2024/01/25,rahulsharma,Mobile,Electronics,4,42219,mumbai,Upi
+1176,12-01-2024,rahulsharma, shoes,Fashion,4,55145,Mumbai ,upi
+1177,06-01-2024,sunilKAPOOR,Laptop,Electronics,1,49746,delhi,cash on delivery
+1178,20240102,ankit_kumar,Mobile,Electronics,4,48773,delhi,UPI
+1179,20240108,PriyaSingh,Headphone ,Accessories,4,, pune,Upi
+1180,2024/01/13,PriyaSingh,Mobile,Electronics,,18111,Delhi,Credit card
+1181,20240104,ankit_kumar, shoes,Fashion,3,39769, pune,upi
+1182,20240129,ankit_kumar,mobile,Electronics,1,42390,delhi,cash on delivery
+1183,2024/01/19,ankit_kumar,Laptop,Electronics,,2825,mumbai,credit Card
+1184,20240126,rahulsharma,mobile,Electronics,4,6207,Bengaluru,Credit card
+1185,2024/01/21,sunilKAPOOR,Mobile,Electronics,2,21732,Mumbai ,cash on delivery
+1186,20240105,rahulsharma,mobile,Electronics,2,24007,Mumbai ,credit Card
+1187,29-01-2024,ankit_kumar,Headphone ,Accessories,3,21041,Bengaluru,UPI
+1188,20240105,PriyaSingh,Laptop,Electronics,1,20455,Bengaluru,UPI
+1189,2024/01/30,rahulsharma, shoes,Fashion,3,35031,mumbai,cash on delivery
+1190,2024/01/01,rohitverma,Headphone ,Accessories,1,50853,mumbai,upi
+1191,31-01-2024,Neha_Gupta,mobile,Electronics,3,57385,delhi,Credit card
+1192,20240106,ankit_kumar,Mobile,Electronics,4,49217,Delhi,upi
+1193,20240117,rohitverma,Laptop,Electronics,1,,mumbai,upi
+1194,20240102,sunilKAPOOR, shoes,Fashion,1,42992, pune,Upi
+1195,2024/01/27,Neha_Gupta,Mobile,Electronics,4,41958,DELHI,UPI
+1196,20240119,Neha_Gupta,Laptop,Electronics,4,,mumbai,Credit card
+1197,20240109,rahulsharma,Headphone ,Accessories,4,15322,mumbai,upi
+1198,29-01-2024,ankit_kumar,Mobile,Electronics,4,39580,Delhi,UPI
+1199,20240105,rahulsharma,Headphone ,Accessories,4,16381,Mumbai ,cash on delivery
+1200,19-01-2024,sunilKAPOOR, shoes,Fashion,3,,DELHI,Credit card
+1201,20240115,rahulsharma,Laptop,Electronics,1,,Bengaluru,credit Card
+1202,2024/01/28,rohitverma, shoes,Fashion,2,41497, pune,credit Card
+1203,07-01-2024,Neha_Gupta, shoes,Fashion,3,14233,delhi,credit Card
+1204,17-01-2024,sunilKAPOOR,Mobile,Electronics,3,, pune,UPI
+1205,28-01-2024,PriyaSingh,mobile,Electronics,2,19019,Bengaluru,cash on delivery
+1206,31-01-2024,rahulsharma,Mobile,Electronics,1,3257,DELHI,UPI
+1207,19-01-2024,sunilKAPOOR,Laptop,Electronics,4,51832,DELHI,COD
+1208,2024/01/29,Neha_Gupta,Laptop,Electronics,2,5627,Bengaluru,COD
+1209,2024/01/16,rohitverma,Laptop,Electronics,3,55639,Delhi,Credit card
+1210,11-01-2024,PriyaSingh, shoes,Fashion,4,4768,Bengaluru,credit Card
+1211,2024/01/12,Neha_Gupta,mobile,Electronics,,57151,Bengaluru,cash on delivery
+1212,20240131,ankit_kumar,Laptop,Electronics,,57158,DELHI,UPI
+1213,11-01-2024,sunilKAPOOR,Mobile,Electronics,2,37517, pune,Credit card
+1214,2024/01/16,PriyaSingh,Headphone ,Accessories,,25319,delhi,upi
+1215,02-01-2024,ankit_kumar,mobile,Electronics,4,37375, pune,UPI
+1216,20240117,rahulsharma,Laptop,Electronics,3,3554,Bengaluru,COD
+1217,20240101,rahulsharma,Headphone ,Accessories,1,45973,mumbai,Upi
+1218,27-01-2024,PriyaSingh,mobile,Electronics,2,7214,DELHI,upi
+1219,20240101,PriyaSingh,mobile,Electronics,,43720,Delhi,UPI
+1220,20240116,sunilKAPOOR,Headphone ,Accessories,2,32437,delhi,credit Card
+1221,23-01-2024,Neha_Gupta,Laptop,Electronics,4,49701,Mumbai ,cash on delivery
+1222,20240123,sunilKAPOOR,Laptop,Electronics,3,55773,Delhi,upi
+1223,29-01-2024,PriyaSingh,Laptop,Electronics,3,30787,Delhi,Credit card
+1224,23-01-2024,PriyaSingh, shoes,Fashion,,42897,Bengaluru,credit Card
+1225,14-01-2024,sunilKAPOOR,Mobile,Electronics,2,59547,DELHI,Upi
+1226,20240113,sunilKAPOOR,Headphone ,Accessories,3,11089,Delhi,Credit card
+1227,2024/01/15,Neha_Gupta, shoes,Fashion,1,50690,delhi,UPI
+1228,20240128,ankit_kumar,Mobile,Electronics,1,, pune,UPI
+1229,20240123,ankit_kumar,Headphone ,Accessories,3,,Bengaluru,upi
+1230,20240124,PriyaSingh, shoes,Fashion,2,30239,mumbai,UPI
+1231,20240125,sunilKAPOOR, shoes,Fashion,1,7797,mumbai,UPI
+1232,14-01-2024,rohitverma,Headphone ,Accessories,2,49699,Bengaluru,Upi
+1233,2024/01/23,Neha_Gupta,Mobile,Electronics,2,31249,Mumbai ,Upi
+1234,01-01-2024,Neha_Gupta,Laptop,Electronics,3,11113,Mumbai ,cash on delivery
+1235,29-01-2024,rahulsharma,Laptop,Electronics,2,56472, pune,credit Card
+1236,20-01-2024,PriyaSingh,Laptop,Electronics,3,30194,Bengaluru,COD
+1237,14-01-2024,ankit_kumar,Headphone ,Accessories,4,25857,Bengaluru,UPI
+1238,03-01-2024,sunilKAPOOR,Headphone ,Accessories,3,,DELHI,cash on delivery
+1239,11-01-2024,Neha_Gupta, shoes,Fashion,3,55561,mumbai,UPI
+1240,2024/01/26,Neha_Gupta,Laptop,Electronics,2,15516,Delhi,Credit card
+1241,19-01-2024,sunilKAPOOR,Mobile,Electronics,,23801,Bengaluru,Upi
+1242,2024/01/11,rahulsharma, shoes,Fashion,4,15069,Delhi,Credit card
+1243,15-01-2024,rahulsharma,Laptop,Electronics,,28292,mumbai,credit Card
+1244,31-01-2024,PriyaSingh,Headphone ,Accessories,4,26275,Bengaluru,COD
+1245,20240124,sunilKAPOOR,mobile,Electronics,3,,Delhi,UPI
+1246,2024/01/17,rahulsharma,Laptop,Electronics,4,14974,mumbai,COD
+1247,20240109,rahulsharma,Headphone ,Accessories,1,29416,Mumbai ,UPI
+1248,12-01-2024,PriyaSingh,Headphone ,Accessories,2,40543,delhi,Upi
+1249,02-01-2024,sunilKAPOOR, shoes,Fashion,4,48150,delhi,upi
+1250,26-01-2024,PriyaSingh,Laptop,Electronics,4,52286,DELHI,Upi
+1251,20240117,rahulsharma, shoes,Fashion,1,21910,mumbai,credit Card
+1252,20240103,rohitverma,Mobile,Electronics,4,33172,Mumbai ,COD
+1253,20240129,PriyaSingh, shoes,Fashion,4,59300,mumbai,Upi
+1254,20240124,rohitverma,mobile,Electronics,4,22483,Bengaluru,upi
+1255,20240125,ankit_kumar, shoes,Fashion,1,35405, pune,upi
+1256,31-01-2024,PriyaSingh,Mobile,Electronics,3,37468,Mumbai ,COD
+1257,20240117,ankit_kumar,Headphone ,Accessories,,28124,mumbai,cash on delivery
+1258,20240129,PriyaSingh,Headphone ,Accessories,1,,Bengaluru,credit Card
+1259,20240116,rahulsharma,Headphone ,Accessories,3,46278,Delhi,cash on delivery
+1260,20-01-2024,rahulsharma,Mobile,Electronics,1,,DELHI,UPI
+1261,12-01-2024,PriyaSingh, shoes,Fashion,4,,Mumbai ,credit Card
+1262,13-01-2024,ankit_kumar, shoes,Fashion,1,49176,DELHI,COD
+1263,20240104,rohitverma,Laptop,Electronics,4,47113, pune,UPI
+1264,20240101,ankit_kumar,mobile,Electronics,1,,delhi,UPI
+1265,20-01-2024,rahulsharma,mobile,Electronics,4,41522,Delhi,cash on delivery
+1266,17-01-2024,sunilKAPOOR,Headphone ,Accessories,4,49728,mumbai,credit Card
+1267,12-01-2024,rahulsharma, shoes,Fashion,4,57389,Mumbai ,Upi
+1268,23-01-2024,rohitverma, shoes,Fashion,2,53556,DELHI,credit Card
+1269,13-01-2024,sunilKAPOOR,mobile,Electronics,1,23420, pune,Upi
+1270,2024/01/20,rahulsharma,mobile,Electronics,2,42539, pune,credit Card
+1271,2024/01/08,Neha_Gupta,Laptop,Electronics,1,29808,delhi,COD
+1272,2024/01/22,PriyaSingh,Mobile,Electronics,1,37075,delhi,upi
+1273,20240108,rohitverma,Headphone ,Accessories,4,29971,Bengaluru,UPI
+1274,20240120,PriyaSingh, shoes,Fashion,2,37040,delhi,cash on delivery
+1275,12-01-2024,Neha_Gupta,Laptop,Electronics,,21684,Mumbai ,cash on delivery
+1276,29-01-2024,sunilKAPOOR, shoes,Fashion,4,49521,DELHI,cash on delivery
+1277,23-01-2024,rahulsharma,Laptop,Electronics,3,17764,Delhi,Credit card
+1278,23-01-2024,rohitverma,Mobile,Electronics,,53592,delhi,COD
+1279,20240106,ankit_kumar,Headphone ,Accessories,1,4828,DELHI,credit Card
+1280,30-01-2024,rohitverma, shoes,Fashion,,32763,mumbai,UPI
+1281,20240104,ankit_kumar,Mobile,Electronics,3,23180,Delhi,COD
+1282,20240119,PriyaSingh,Laptop,Electronics,2,,Bengaluru,credit Card
+1283,20240110,PriyaSingh,mobile,Electronics,3,,Bengaluru,upi
+1284,2024/01/26,PriyaSingh,Mobile,Electronics,,40540,Bengaluru,UPI
+1285,2024/01/16,sunilKAPOOR, shoes,Fashion,2,15628,mumbai,credit Card
+1286,18-01-2024,sunilKAPOOR,Mobile,Electronics,3,21015,delhi,cash on delivery
+1287,20240106,rahulsharma,mobile,Electronics,4,43631,Bengaluru,cash on delivery
+1288,22-01-2024,PriyaSingh, shoes,Fashion,3,39769,delhi,Credit card
+1289,24-01-2024,PriyaSingh, shoes,Fashion,2,,Mumbai ,credit Card
+1290,30-01-2024,rahulsharma,mobile,Electronics,3,42562,Delhi,credit Card
+1291,20240116,rahulsharma,Laptop,Electronics,3,,Mumbai ,upi
+1292,20240125,PriyaSingh, shoes,Fashion,4,29190,mumbai,COD
+1293,20240125,Neha_Gupta,Headphone ,Accessories,4,2577,delhi,Credit card
+1294,09-01-2024,sunilKAPOOR,Headphone ,Accessories,1,,Mumbai ,cash on delivery
+1295,20240120,Neha_Gupta,Headphone ,Accessories,4,12905,delhi,COD
+1296,20240122,rahulsharma,Laptop,Electronics,,34938,Bengaluru,COD
+1297,08-01-2024,ankit_kumar,Mobile,Electronics,4,50185, pune,UPI
+1298,20240119,sunilKAPOOR,Laptop,Electronics,4,44714,Delhi,Upi
+1299,20240114,rohitverma,Mobile,Electronics,,25829,mumbai,cash on delivery
+1300,20240127,rohitverma,Headphone ,Accessories,4,,Bengaluru,cash on delivery
+1301,2024/01/27,Neha_Gupta,mobile,Electronics,2,8894,Mumbai ,cash on delivery
+1302,06-01-2024,PriyaSingh,Mobile,Electronics,2,22935,mumbai,Upi
+1303,20240113,sunilKAPOOR,Headphone ,Accessories,2,4748,Delhi,cash on delivery
+1304,20240102,rahulsharma,Mobile,Electronics,3,55567,delhi,Credit card
+1305,20240112,sunilKAPOOR,mobile,Electronics,1,28679,delhi,UPI
+1306,28-01-2024,PriyaSingh, shoes,Fashion,3,,Delhi,credit Card
+1307,04-01-2024,rahulsharma,mobile,Electronics,1,27332,Delhi,Credit card
+1308,11-01-2024,ankit_kumar,Headphone ,Accessories,1,5652,mumbai,Credit card
+1309,20240116,Neha_Gupta,mobile,Electronics,3,12841,Mumbai ,upi
+1310,20240122,rohitverma,Laptop,Electronics,4,49699,DELHI,cash on delivery
+1311,20240108,rohitverma,mobile,Electronics,4,, pune,UPI
+1312,2024/01/22,PriyaSingh,Laptop,Electronics,2,,Delhi,COD
+1313,20240124,PriyaSingh,Mobile,Electronics,2,50688,mumbai,UPI
+1314,05-01-2024,Neha_Gupta, shoes,Fashion,3,41860,mumbai,credit Card
+1315,08-01-2024,rahulsharma,mobile,Electronics,3,19817,Mumbai ,UPI
+1316,2024/01/27,rahulsharma,mobile,Electronics,4,54882,mumbai,Upi
+1317,2024/01/11,sunilKAPOOR,Mobile,Electronics,3,4155,Mumbai ,COD
+1318,20240103,PriyaSingh,mobile,Electronics,1,59063,delhi,COD
+1319,30-01-2024,rahulsharma,mobile,Electronics,1,43603,Bengaluru,Credit card
+1320,11-01-2024,rohitverma, shoes,Fashion,2,35463,Bengaluru,cash on delivery
+1321,20240113,PriyaSingh, shoes,Fashion,2,49760,mumbai,credit Card
+1322,20240121,rohitverma,Laptop,Electronics,2,4198,mumbai,Upi
+1323,2024/01/08,PriyaSingh,Mobile,Electronics,2,24093,Bengaluru,credit Card
+1324,02-01-2024,ankit_kumar,Laptop,Electronics,2,37641,Bengaluru,upi
+1325,28-01-2024,PriyaSingh, shoes,Fashion,2,45684,Bengaluru,upi
+1326,09-01-2024,PriyaSingh, shoes,Fashion,4,, pune,upi
+1327,20240118,rohitverma,mobile,Electronics,,3169,Bengaluru,Upi
+1328,2024/01/23,ankit_kumar,Headphone ,Accessories,3,13083,mumbai,upi
+1329,11-01-2024,ankit_kumar,Laptop,Electronics,4,,Bengaluru,COD
+1330,20240109,PriyaSingh,Mobile,Electronics,3,48000,DELHI,cash on delivery
+1331,20240123,rahulsharma,Mobile,Electronics,2,7862,Delhi,COD
+1332,2024/01/23,rahulsharma,Headphone ,Accessories,4,4257,delhi,cash on delivery
+1333,20240105,sunilKAPOOR,Laptop,Electronics,,55069, pune,Upi
+1334,20240121,Neha_Gupta,mobile,Electronics,2,28672,DELHI,Credit card
+1335,14-01-2024,Neha_Gupta,Mobile,Electronics,1,55820,Bengaluru,cash on delivery
+1336,20240127,ankit_kumar,mobile,Electronics,3,,mumbai,cash on delivery
+1337,20240107,sunilKAPOOR,Laptop,Electronics,3,53021,mumbai,upi
+1338,20240107,Neha_Gupta,mobile,Electronics,3,52730,Delhi,COD
+1339,11-01-2024,PriyaSingh,mobile,Electronics,4,,Mumbai ,UPI
+1340,03-01-2024,sunilKAPOOR,Mobile,Electronics,1,,Bengaluru,upi
+1341,20240120,PriyaSingh,Laptop,Electronics,1,, pune,credit Card
+1342,20240121,PriyaSingh, shoes,Fashion,1,44679,mumbai,credit Card
+1343,06-01-2024,ankit_kumar,Laptop,Electronics,2,44165, pune,credit Card
+1344,20240115,rohitverma, shoes,Fashion,2,57613,mumbai,credit Card
+1345,17-01-2024,Neha_Gupta,Laptop,Electronics,2,24187,mumbai,UPI
+1346,20240123,rahulsharma,Laptop,Electronics,3,24656,delhi,cash on delivery
+1347,20240128,rohitverma,Headphone ,Accessories,1,27390,mumbai,Upi
+1348,2024/01/21,ankit_kumar,Headphone ,Accessories,1,8550,Mumbai ,Credit card
+1349,29-01-2024,Neha_Gupta,Mobile,Electronics,3,16491,Bengaluru,COD
+1350,19-01-2024,PriyaSingh,Headphone ,Accessories,2,17524,Mumbai ,Credit card
+1351,20240110,Neha_Gupta,Mobile,Electronics,2,14860,DELHI,cash on delivery
+1352,2024/01/30,PriyaSingh,Headphone ,Accessories,3,49891,Bengaluru,cash on delivery
+1353,05-01-2024,Neha_Gupta,Laptop,Electronics,2,38788, pune,upi
+1354,20240115,ankit_kumar,Laptop,Electronics,4,,mumbai,credit Card
+1355,02-01-2024,PriyaSingh,mobile,Electronics,1,45019,Mumbai ,Credit card
+1356,29-01-2024,Neha_Gupta,Mobile,Electronics,2,23831,DELHI,COD
+1357,04-01-2024,rahulsharma,Headphone ,Accessories,2,16147,delhi,upi
+1358,2024/01/25,Neha_Gupta,Headphone ,Accessories,3,31558,DELHI,UPI
+1359,20240102,Neha_Gupta,Headphone ,Accessories,3,22505,Delhi,UPI
+1360,2024/01/09,PriyaSingh,Laptop,Electronics,1,56926,delhi,UPI
+1361,20240129,rohitverma,Headphone ,Accessories,4,26855,delhi,upi
+1362,2024/01/20,rohitverma, shoes,Fashion,,37205,Mumbai ,upi
+1363,20240113,ankit_kumar,Mobile,Electronics,2,32863,DELHI,cash on delivery
+1364,20240105,ankit_kumar, shoes,Fashion,4,41335, pune,COD
+1365,20-01-2024,rohitverma,Mobile,Electronics,,22534,delhi,upi
+1366,2024/01/09,rahulsharma,Mobile,Electronics,4,44142,mumbai,Upi
+1367,2024/01/11,Neha_Gupta,Mobile,Electronics,3,54426,Bengaluru,cash on delivery
+1368,20240119,rohitverma,Mobile,Electronics,3,28917,Mumbai ,COD
+1369,17-01-2024,PriyaSingh,Headphone ,Accessories,3,42030,Bengaluru,Upi
+1370,2024/01/20,ankit_kumar,mobile,Electronics,4,46874,Bengaluru,UPI
+1371,2024/01/24,ankit_kumar,mobile,Electronics,4,56143,Delhi,credit Card
+1372,20240117,rohitverma,Mobile,Electronics,,49992,delhi,upi
+1373,20240112,sunilKAPOOR,Mobile,Electronics,4,14986,DELHI,upi
+1374,2024/01/08,Neha_Gupta,Headphone ,Accessories,4,9599,Delhi,UPI
+1375,20240102,ankit_kumar,mobile,Electronics,4,32904,delhi,Upi
+1376,20240121,PriyaSingh,mobile,Electronics,1,16147,DELHI,Credit card
+1377,2024/01/06,rohitverma,mobile,Electronics,3,41944, pune,cash on delivery
+1378,27-01-2024,sunilKAPOOR,Mobile,Electronics,,53981,mumbai,credit Card
+1379,20240101,sunilKAPOOR,Laptop,Electronics,1,57701,delhi,COD
+1380,20240123,ankit_kumar,Mobile,Electronics,2,31529,mumbai,cash on delivery
+1381,2024/01/11,rohitverma,Mobile,Electronics,2,37497,delhi,Credit card
+1382,2024/01/24,ankit_kumar, shoes,Fashion,3,19624,Bengaluru,COD
+1383,2024/01/31,PriyaSingh,mobile,Electronics,3,27047,Mumbai ,COD
+1384,23-01-2024,Neha_Gupta, shoes,Fashion,2,58367,mumbai,upi
+1385,2024/01/18,Neha_Gupta, shoes,Fashion,2,14207, pune,UPI
+1386,20240111,PriyaSingh,Laptop,Electronics,,57823, pune,credit Card
+1387,20240113,PriyaSingh,Laptop,Electronics,3,36582,Delhi,UPI
+1388,2024/01/08,sunilKAPOOR,Headphone ,Accessories,3,58687, pune,Upi
+1389,17-01-2024,rohitverma,mobile,Electronics,1,48106, pune,Credit card
+1390,2024/01/23,ankit_kumar,Headphone ,Accessories,4,26344,Mumbai ,Upi
+1391,20240109,sunilKAPOOR,Headphone ,Accessories,1,14270,DELHI,upi
+1392,2024/01/23,PriyaSingh,Laptop,Electronics,2,46320,delhi,Credit card
+1393,28-01-2024,rohitverma, shoes,Fashion,4,,Bengaluru,upi
+1394,20240126,ankit_kumar,Laptop,Electronics,3,27057,delhi,Credit card
+1395,20240127,ankit_kumar,Mobile,Electronics,3,29371,Bengaluru,UPI
+1396,20240102,sunilKAPOOR,Mobile,Electronics,1,33466,Delhi,Upi
+1397,2024/01/05,rahulsharma,Mobile,Electronics,1,17753, pune,UPI
+1398,20240104,rahulsharma,Mobile,Electronics,2,13117,Delhi,Credit card
+1399,20240115,ankit_kumar,mobile,Electronics,1,37907,Delhi,COD
+1400,20240118,rohitverma,mobile,Electronics,2,9171,DELHI,Credit card
+1401,20240121,Neha_Gupta, shoes,Fashion,4,28101,mumbai,Credit card
+1402,20240131,rohitverma,mobile,Electronics,3,8684,Mumbai ,credit Card
+1403,2024/01/10,rahulsharma,Headphone ,Accessories,4,45004,Mumbai ,Upi
+1404,17-01-2024,rohitverma, shoes,Fashion,2,20977, pune,Upi
+1405,20240104,Neha_Gupta,Mobile,Electronics,1,6263,mumbai,cash on delivery
+1406,09-01-2024,Neha_Gupta, shoes,Fashion,1,27314,mumbai,Credit card
+1407,20240120,PriyaSingh,Headphone ,Accessories,,14738, pune,Upi
+1408,2024/01/17,sunilKAPOOR,mobile,Electronics,4,, pune,COD
+1409,20240112,PriyaSingh,Laptop,Electronics,1,56820, pune,upi
+1410,2024/01/31,sunilKAPOOR,Mobile,Electronics,4,59065,delhi,upi
+1411,13-01-2024,rohitverma,mobile,Electronics,4,53501,mumbai,upi
+1412,2024/01/12,ankit_kumar,Mobile,Electronics,2,16026,DELHI,cash on delivery
+1413,20240109,rohitverma,Headphone ,Accessories,2,23597,Mumbai ,Credit card
+1414,09-01-2024,PriyaSingh, shoes,Fashion,3,52654,Mumbai ,credit Card
+1415,20240110,PriyaSingh,mobile,Electronics,4,29799,mumbai,upi
+1416,20240121,rohitverma,mobile,Electronics,1,11540,delhi,COD
+1417,20240107,Neha_Gupta,Headphone ,Accessories,2,5803,mumbai,Credit card
+1418,20240109,ankit_kumar, shoes,Fashion,4,52106,mumbai,UPI
+1419,2024/01/28,sunilKAPOOR,Laptop,Electronics,3,26428,Bengaluru,cash on delivery
+1420,20240118,rohitverma, shoes,Fashion,,,mumbai,Upi
+1421,30-01-2024,Neha_Gupta,Mobile,Electronics,2,28703,DELHI,Upi
+1422,20240120,rohitverma,Mobile,Electronics,4,14483,delhi,Upi
+1423,20240110,Neha_Gupta, shoes,Fashion,,58273, pune,COD
+1424,20240115,rohitverma,mobile,Electronics,1,6229,mumbai,UPI
+1425,28-01-2024,ankit_kumar,Laptop,Electronics,1,45455,Delhi,Upi
+1426,06-01-2024,PriyaSingh,Mobile,Electronics,4,15091, pune,credit Card
+1427,20240121,rahulsharma,Headphone ,Accessories,2,8790, pune,Credit card
+1428,30-01-2024,rahulsharma,mobile,Electronics,1,20513,Mumbai ,Credit card
+1429,2024/01/11,ankit_kumar,Laptop,Electronics,2,53273,Delhi,UPI
+1430,20240122,sunilKAPOOR,Headphone ,Accessories,2,58685,Bengaluru,cash on delivery
+1431,2024/01/15,rohitverma,Headphone ,Accessories,2,29408,mumbai,UPI
+1432,16-01-2024,rahulsharma,Headphone ,Accessories,2,43272,Bengaluru,cash on delivery
+1433,20240117,rohitverma,Mobile,Electronics,1,32922,Bengaluru,COD
+1434,20240103,PriyaSingh,Laptop,Electronics,2,55583,delhi,Credit card
+1435,21-01-2024,Neha_Gupta,mobile,Electronics,4,50023,delhi,cash on delivery
+1436,20240119,Neha_Gupta,Headphone ,Accessories,1,41205,delhi,COD
+1437,2024/01/17,rahulsharma,mobile,Electronics,2,,mumbai,cash on delivery
+1438,20240103,PriyaSingh,mobile,Electronics,4,59288,Bengaluru,COD
+1439,2024/01/30,PriyaSingh,mobile,Electronics,4,15056,Mumbai ,upi
+1440,12-01-2024,Neha_Gupta,Headphone ,Accessories,2,,Delhi,Upi
+1441,15-01-2024,PriyaSingh,Mobile,Electronics,1,3515,Mumbai ,upi
+1442,20240111,rahulsharma,mobile,Electronics,4,2756,mumbai,cash on delivery
+1443,20240109,ankit_kumar, shoes,Fashion,2,,Delhi,COD
+1444,2024/01/22,ankit_kumar,Laptop,Electronics,2,7724,mumbai,UPI
+1445,06-01-2024,PriyaSingh,Laptop,Electronics,4,16038,delhi,cash on delivery
+1446,20240113,Neha_Gupta,mobile,Electronics,3,16870,Delhi,Credit card
+1447,20240103,Neha_Gupta, shoes,Fashion,,2628,delhi,Credit card
+1448,26-01-2024,Neha_Gupta,mobile,Electronics,4,13947,Delhi,credit Card
+1449,20240110,rahulsharma,mobile,Electronics,3,12488,mumbai,cash on delivery
+1450,27-01-2024,PriyaSingh,Laptop,Electronics,2,32588,Mumbai ,Upi
+1451,20240110,rahulsharma,Headphone ,Accessories,1,33180,DELHI,Credit card
+1452,20240102,sunilKAPOOR,Headphone ,Accessories,3,3968,Bengaluru,cash on delivery
+1453,22-01-2024,PriyaSingh,Laptop,Electronics,2,49839,mumbai,upi
+1454,01-01-2024,ankit_kumar,Headphone ,Accessories,2,26999,DELHI,cash on delivery
+1455,27-01-2024,ankit_kumar,Headphone ,Accessories,2,47060,Bengaluru,Credit card
+1456,2024/01/07,rahulsharma, shoes,Fashion,1,37732,mumbai,COD
+1457,20240115,rohitverma,mobile,Electronics,4,,Bengaluru,Credit card
+1458,2024/01/17,Neha_Gupta, shoes,Fashion,1,59654,Delhi,COD
+1459,20240107,ankit_kumar, shoes,Fashion,,22888,Mumbai ,credit Card
+1460,2024/01/14,ankit_kumar,Headphone ,Accessories,3,53196, pune,Upi
+1461,2024/01/05,sunilKAPOOR,Headphone ,Accessories,3,52128,Bengaluru,cash on delivery
+1462,30-01-2024,rahulsharma, shoes,Fashion,1,26356,Bengaluru,upi
+1463,2024/01/20,ankit_kumar,Headphone ,Accessories,2,51268,mumbai,cash on delivery
+1464,20240127,rohitverma, shoes,Fashion,,10687,DELHI,Upi
+1465,20240107,rohitverma,Mobile,Electronics,1,11063,DELHI,Upi
+1466,18-01-2024,rohitverma, shoes,Fashion,4,48656,mumbai,Upi
+1467,06-01-2024,ankit_kumar,Mobile,Electronics,4,26365, pune,UPI
+1468,2024/01/25,PriyaSingh, shoes,Fashion,4,39435,DELHI,COD
+1469,2024/01/25,ankit_kumar,Headphone ,Accessories,3,56208,Delhi,cash on delivery
+1470,2024/01/07,Neha_Gupta,Laptop,Electronics,1,40344, pune,COD
+1471,2024/01/18,rohitverma, shoes,Fashion,4,12948,DELHI,Credit card
+1472,11-01-2024,Neha_Gupta,Headphone ,Accessories,4,4015,DELHI,upi
+1473,20240118,rohitverma, shoes,Fashion,1,16181,DELHI,upi
+1474,2024/01/28,sunilKAPOOR,mobile,Electronics,3,18115,mumbai,UPI
+1475,19-01-2024,sunilKAPOOR,Laptop,Electronics,3,18554,mumbai,COD
+1476,20240115,rahulsharma, shoes,Fashion,3,32892,Bengaluru,cash on delivery
+1477,2024/01/18,PriyaSingh,Headphone ,Accessories,1,52295,Delhi,Credit card
+1478,20240115,PriyaSingh,Headphone ,Accessories,1,49108,delhi,Credit card
+1479,21-01-2024,PriyaSingh,mobile,Electronics,3,42655,Delhi,COD
+1480,2024/01/23,sunilKAPOOR, shoes,Fashion,1,,Delhi,COD
+1481,20240116,sunilKAPOOR,Laptop,Electronics,,22686,Mumbai ,COD
+1482,20240101,rohitverma,mobile,Electronics,2,31672,Bengaluru,Credit card
+1483,2024/01/27,rohitverma, shoes,Fashion,3,56870, pune,Credit card
+1484,20240110,rohitverma,Headphone ,Accessories,3,35168,DELHI,credit Card
+1485,20240108,PriyaSingh,Mobile,Electronics,3,23338,delhi,Credit card
+1486,20240125,Neha_Gupta, shoes,Fashion,3,35289, pune,upi
+1487,08-01-2024,ankit_kumar,mobile,Electronics,3,31892,Mumbai ,UPI
+1488,29-01-2024,PriyaSingh, shoes,Fashion,,,DELHI,credit Card
+1489,20240131,PriyaSingh, shoes,Fashion,,30772,Bengaluru,COD
+1490,20240127,Neha_Gupta,Laptop,Electronics,3,56682,Bengaluru,upi
+1491,2024/01/04,sunilKAPOOR, shoes,Fashion,4,32043,DELHI,cash on delivery
+1492,21-01-2024,rahulsharma,mobile,Electronics,2,55021,Bengaluru,credit Card
+1493,20240127,sunilKAPOOR,Headphone ,Accessories,1,24853,DELHI,UPI
+1494,20240130,rohitverma,mobile,Electronics,1,25367,delhi,credit Card
+1495,20240116,ankit_kumar,Headphone ,Accessories,1,49333,Delhi,Credit card
+1496,2024/01/05,rohitverma, shoes,Fashion,1,33475,delhi,upi
+1497,07-01-2024,rahulsharma,Headphone ,Accessories,4,18254,DELHI,cash on delivery
+1498,18-01-2024,Neha_Gupta, shoes,Fashion,1,11637,mumbai,COD
+1499,27-01-2024,rahulsharma,mobile,Electronics,2,56751,Delhi,upi
+1500,20240125,rohitverma,mobile,Electronics,2,20890,DELHI,Upi
